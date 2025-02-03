@@ -30,9 +30,7 @@ function Home (){
             <div className="home-content">
                 <h1>Hi, I'm <span>Joseph</span></h1>
                 <h3 className="text-animation">I'm an aspiring <span></span></h3>
-                <p>asdjkdhjkshd asjdhaskj dhjsadh ajshdk ashdjsahd hausdh sahd sjd asdkjh sdhas jd
-                    asdjhksadhjsd sdhjkashdjaksdhh d skdaksldjiwj dsndsn kasjdh sjdhaskjhd la dkjs 
-                    asdkjskd jskjd asjdk sdkjskd jkjsdk s dsdk lskskld lskd sd;ks d;ks'ks;kdls d
+                <p>"With 6 months of hands-on experience in both graphic design and development, I specialize in crafting visually appealing designs while building functional and user-friendly websites. My goal is to merge creativity with technology, delivering innovative and high-quality solutions tailored to your needs."
                 </p>
 
                 <div className="social-icons">
